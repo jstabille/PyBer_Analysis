@@ -26,7 +26,7 @@ The line chart above reveals more interesting trends. This visually represents t
 
 As we have shown in the above summaries, rides are more expensive in rural and suburban areas, and there are fewer drivers. This may discourage or make less accessible the PyBer service in these areas. 
 
-If we want to increase the availability of rides in these city types, we can look into the following strategies:
+If we want to increase the dissemination of PyBer rides in these city types, we must pay attention to the following recommendations:
 
 - Encourage more drivers to sign up and look for rides in suburban and rural areas only. As the number of available drivers increases, wait times, ride cost,s and other obstacles to accessing PyBer services goes down.
 
