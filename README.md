@@ -13,7 +13,6 @@ We created a DataFrame of the data by different location types: Urban, Suburban,
 ![Dataframe summary](analysis/pyber_df_summary.PNG)
 
 As the above dataframe shows, city type correlates with many different metrics. As the city type gets more dense (rural being least dense, and urban being most dense), ride and driver totals go up, while average fare per ride go down, along with the fare per average driver. The increase in quantity outpaces the decrease in average fare, though, meaning that the fare totals for denser areas are higher than As the above data frame shows, city type correlates with many different metrics. As the city type gets denser (rural being least dense, and urban being most dense), ride and driver totals go up, while average fare per ride goes down, along with the fare per average driver.
- 
 This price difference can be understood by the long drives in rural areas and fewer drivers in rural areas versus urban, therefore driving up the price.for less dense areas. 
 
 ### Charting the Fares by City Type Over Time
